@@ -1,9 +1,9 @@
 About me
 =========
-## 'My name is Nasla.O.Iam currently pursuing a degree in b.tech electronics and communication.Iam a final year student of MESCE,Kuttippuram.'
+## My name is Nasla.O.Iam currently pursuing a degree in b.tech electronics and communication.Iam a final year student of MESCE,Kuttippuram.
 
 FABLAB in MESCE
-===============
+
   
 
 You can use the [editor on GitHub](https://github.com/naslao/naslao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
