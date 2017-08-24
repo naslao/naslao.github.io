@@ -8,8 +8,8 @@ FABLAB in MESCE
   A fablab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make "almost anything".This includes technology-enabled products generally perceived as limited to mass production.
 
 History
-
 =======
+
    The FABLAB program was initiated to broadly explore how the content of information relates to its physical representation and how an under-served community can be powered by technology at the grassroots level. The program began as a collaboration between the Grassroots Invention Group and the Center for Bits and Atoms at the Media Lab in the Massachusetts Institute of Technology with a grant from the National Science Foundation (Washington, D.C.) in 2001.
 
   Vigyan Ashram in India was the first fab lab to be set up outside MIT. It is established in 2002 and received capital equipment by NSF-USA and IITK.
