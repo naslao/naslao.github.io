@@ -1,6 +1,6 @@
 About me
 =========
-  My name is Nasla.O.I studied degree in b.tech Electronics and communication
+  My name is Nasla.O.I studied b.tech in Electronics and communication
 
 FABLAB in MESCE
 ===============
